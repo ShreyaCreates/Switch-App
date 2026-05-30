@@ -1,0 +1,21 @@
+{
+  "name": "switch-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "array_method_day2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShreyaCreates/Switch-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/ShreyaCreates/Switch-App/issues"
+  },
+  "homepage": "https://github.com/ShreyaCreates/Switch-App#readme"
+}
