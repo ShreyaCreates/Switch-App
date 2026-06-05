@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "switch-app",
   "version": "0.1.0",
   "private": true,
@@ -37,4 +38,25 @@
       "last 1 safari version"
     ]
   }
+=======
+  "name": "switch-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "array_method_day2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShreyaCreates/Switch-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/ShreyaCreates/Switch-App/issues"
+  },
+  "homepage": "https://github.com/ShreyaCreates/Switch-App#readme"
+>>>>>>> 5cbeb0794d7c136a1aeb5033940a8f81323300a2
 }
